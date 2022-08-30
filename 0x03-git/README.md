@@ -1,1 +1,1 @@
-Second in git 3
+this is an intro to git
